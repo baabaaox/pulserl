@@ -5,7 +5,8 @@
     {mod, {pulserl_app, []}},
     {applications,
       [kernel,
-        stdlib
+        stdlib,
+        erlwater
       ]},
     {env, []},
     {modules, []},
